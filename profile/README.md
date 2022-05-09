@@ -12,23 +12,23 @@ In 2020, A software developer and Minecraft enthusiast started the open source c
 
 Together we are building:
 
-:bulb: A dynamic multi-dimensional story driven by the player
+* :bulb: A dynamic multi-dimensional story driven by the player
 
-:speech_balloon: A Discord server where you can get help coding and feedback on graphical design
+* :speech_balloon: A Discord server where you can get help coding and feedback on graphical design
 
-:book: Understand game design, using different difficultly levels and emotion to drive players
+* :book: Understand game design, using different difficultly levels and emotion to drive players
 
-:computer: An API where you can connect real-world items that can directly affect in-game elements
+* :computer: An API where you can connect real-world items that can directly affect in-game elements
 
-:newspaper: Encouraging users to submit articles of in-game events, learning the fundamentals of writing to audience
+* :newspaper: Encouraging users to submit articles of in-game events, learning the fundamentals of writing to audience
 
 To achieve this, we use a wide range of languages, frameworks and Tools such as:
 
-**Languages**: [Denizen Script](http://denizenscript.com), [PHP](https://www.php.net), [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+* **Languages**: [Denizen Script](http://denizenscript.com), [PHP](https://www.php.net), [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-**Frameworks**: [Laravel](https://laravel.com), [Vue.JS](https://vuejs.org), [TailwindCSS](https://tailwindcss.com)
+* **Frameworks**: [Laravel](https://laravel.com), [Vue.JS](https://vuejs.org), [TailwindCSS](https://tailwindcss.com)
 
-**Tools**: [GitHub](https://github.com), [VSCode](https://code.visualstudio.com), [BlockBench](https://www.blockbench.net)
+* **Tools**: [GitHub](https://github.com), [VSCode](https://code.visualstudio.com), [BlockBench](https://www.blockbench.net)
 
 ## Licensing
 
