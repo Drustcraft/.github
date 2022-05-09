@@ -30,7 +30,7 @@ To achieve this, we use a wide range of languages, frameworks and Tools such as:
 
 **Tools**: [GitHub](https://github.com), [VSCode](https://code.visualstudio.com), [BlockBench](https://www.blockbench.net)
 
-### Licensing
+## Licensing
 
 The Drustcraft Engine is available under the [GPL-3.0 license](https://github.com/Drustcraft/Drustcraft-Engine/blob/dev/LICENSE) which in summary allows you to use this code on your own server, even for commercial use, however:
 
