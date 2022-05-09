@@ -11,14 +11,14 @@
 # All files are owned by Drustcraft Dev-team
 # -------------------------------------------------
 
-* @drustcraft/dev-team
+* @Drustcraft/dev-team
 
 # --- Owned by none (negate rule above) ---
 
 package.json
 package-lock.json
 
-/* @drustcraft/dev-team
+/* @Drustcraft/dev-team
 
 # --- Owned by none (negate rule above) ---
 
